@@ -5,7 +5,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nityansuman/warren)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nityansuman/warren)
 ![GitHub language count](https://img.shields.io/github/languages/count/nityansuman/warren)
-![GitHub last commit](https://img.shields.io/github/last-commit/nityansuman/warren)
+![GitHub last commit](https://img.shields.io/github.com/AmitDark/Warren.gitwarren)
 
 Stock market prediction is the act of trying to determine the future value of a company stock or other financial instrument traded on an exchange. The successful prediction of a stock's future price could yield significant profit. The efficient-market hypothesis suggests that stock prices reflect all currently available information and any price changes that are not based on newly revealed information thus are inherently unpredictable. Others disagree and those with this viewpoint possess myriad methods and technologies which purportedly allow them to gain future price information.
 
@@ -17,7 +17,7 @@ We make use of Facebook's Time Series forcasting algorithm Prophet to predict st
 
 Download or clone project from github:
 ```
-$ git clone https://github.com/nityansuman/warren.git
+$ git clone https://github.com/AmitDark/Warren.git
 ```
 
 Create a project environment (Anaconda recommended):
